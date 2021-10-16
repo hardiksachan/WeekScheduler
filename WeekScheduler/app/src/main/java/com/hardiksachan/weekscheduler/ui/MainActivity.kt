@@ -1,4 +1,4 @@
-package com.hardiksachan.weekscheduler
+package com.hardiksachan.weekscheduler.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
