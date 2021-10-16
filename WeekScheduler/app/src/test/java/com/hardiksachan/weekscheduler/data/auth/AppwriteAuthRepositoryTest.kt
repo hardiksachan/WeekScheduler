@@ -1,0 +1,3 @@
+package com.hardiksachan.weekscheduler.data.auth
+
+internal class AppwriteAuthRepositoryTest
