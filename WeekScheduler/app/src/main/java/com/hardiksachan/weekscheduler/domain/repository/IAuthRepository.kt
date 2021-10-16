@@ -12,7 +12,7 @@ interface IAuthRepository {
         emailAddress: String,
         name: String,
         password: String,
-    ): ResultWrapper<AuthException, Unit>
+    ): ResultWrapper<AuthException, User>
 
     suspend fun login(
         emailAddress: String,
